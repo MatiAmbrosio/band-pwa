@@ -1,0 +1,14 @@
+{
+  "name": "Band App",
+  "short_name": "Band App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://github.com/MatiAmbrosio/band-pwa/blob/main/icon.png",
+    },
+
+  ]
+}
